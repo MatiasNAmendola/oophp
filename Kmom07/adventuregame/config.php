@@ -1,0 +1,1 @@
+<?phpdefine('DB_USER', "EMPTY");define('DB_PASSWORD',  "EMPTY");define('DB_DATABASE',   'EMPTY');                          // <-- mysql db namedefine('DB_HOST',       'EMPTY'); 						   // <-- mysql server host//These should have a name pw db namn etc but currently removed

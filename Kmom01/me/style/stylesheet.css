@@ -1,0 +1,76 @@
+html{
+
+}
+body{
+width: 1100px;
+height: 100%;
+margin: 8px auto;
+background-color: #052C6E;
+border: 1px solid #000;
+font-family: Tahoma, Geneva, sans-serif;
+}
+#pageLogo{
+width: 50%;
+border: 1px solid #000;
+background-color: #6A92D4;
+ border: 1px solid #000;
+ -webkit-border-radius: 10px;
+ -moz-border-radius: 10px;
+ border-radius: 10px;
+ text-align: center;
+ margin: 3px;
+ 
+}
+#content{
+border: 1px solid #000;
+background-color: #4479D4;
+padding: 1em;
+}
+#text{
+border: 1px solid #000;
+background-color: #6A92D4;
+ border: 1px solid #000;
+ -webkit-border-radius: 10px;
+ -moz-border-radius: 10px;
+ border-radius: 10px;
+ padding: 1em;
+}
+#filecontent{
+background-color: #fff;
+width: 1000px;
+overflow: auto;
+}
+/*Meny ----------------------*/
+nav.navmenu {
+    font-family: arial;
+	font-weight: bold;
+	padding: 2px 8px;
+	background:#4479D4;
+	border:2px solid #000000;
+}
+nav.navmenu a {
+    padding: 0.3em 1em 0 1em;
+    color: #000000;
+    font-family: Tahoma, Geneva, sans-serif;
+    text-decoration:none;
+}
+nav.navmenu a {padding:6px 8px;text-decoration:none;border:2px solid transparent;color:#000000;}
+nav.navmenu a:hover {background:#6A92D4;border:2px solid #000000;padding:8px;}
+
+nav.navmenu a:link    { }
+nav.navmenu a:visited { }
+nav.navmenu a:hover   {background: #6A92D4; }
+nav.navmenu a:active  { }
+/*Nuvarande sida som visas--*/
+body#hem a#me-,
+body#redo a#redo-,
+body#source a#source-{background:#6A92D4;border:2px solid #000000;color:#000000;}
+/*--------------------------*/
+/*Figure--------------------*/
+figure {border:1px solid #E6E6E6;padding:4px;margin:1em;text-align:center;float: right;overflow: auto;}
+figcaption {font-style:italic;font-size:smaller;padding-left:1em;}
+
+figure.right{margin-right:0;}
+figure.top{margin-top:0;}
+figure.fullwidth{margin-left:0;margin-right:0;}
+/*--------------------------*/
