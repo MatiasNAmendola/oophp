@@ -1,6 +1,6 @@
 Databases and object oriented PHP
 ====================================
-This is the repository for the courseDatabases and object oriented PHP at Blekinge Technology Institute "BTH".			 
+This is the repository for the course databases and object oriented PHP at Blekinge Technology Institute "BTH".			 
 This repository contains the exercises and the final project for this course. Kmom01-07 is the course exercises 			
 and the Kmom08-10 is the project.
 
